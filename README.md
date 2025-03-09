@@ -38,6 +38,7 @@ The dataset required the following cleaning steps:
 6. *Customer Buying Behaviour* - Do different region prefer different products?
 
 ## Results
+- KPIs: The total revenue generated amounts to $320,166,650. A total of 9,644 units were sold. They were 6 Product Category. And 3 Sales Method.
 - Sales Trends Over Time: The sales trend shows a significant increase, especially in the second half of the period. This suggests a seasonal demand or successful marketing strategies boosting sales during specific periods.
 - Regional Performance: The highest sales were recorded in certain regions, while others lagged. This indicates varying market penetration and customer preferences across locations.
 -  Sales Method Analysis: The majority of sales came from one specific method, while the others contributed less. This highlights the dominance of a particular sales channel, which is online sales.
