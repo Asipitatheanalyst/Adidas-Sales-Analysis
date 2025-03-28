@@ -7,6 +7,7 @@
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [Objectives](#objectives)
 - [Results](#results)
+- [Dashboard](#dashboard)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
@@ -45,14 +46,20 @@ The dataset required the following cleaning steps:
 -   Retailer Performance: Some retailers outperformed others significantly in terms of total units sold. West Gear and foot locker led sales, while others had relatively lower contributions.
 -   Product Performance: Certain product categories generated the highest revenue, indicating their popularity. Categories like "Men’s Street Footwear" performed well, while others had lower sales figures.
 -   Regional & State  Performance: West region has the highest total sales.
+  
+## Dashboard
+![addidas dashboard](https://github.com/user-attachments/assets/5796ff09-a9e0-4625-84a5-8d8f5284dc29)
+
 
 ## Recommendations
 
-1. Leverage High Sales Periods: Since there is a noticeable peak in sales at specific times, Adidas should focus on marketing campaigns and promotions during those high-performing periods to maximize revenue.
+1. Leverage High Sales Periods: Since there is a noticeable peak in sales at specific times, Adidas should focus on marketing campaigns and promotions during those high-performing 
+   periods to maximize revenue.
 2. Strengthen Regional Presence: The regions with lower sales could benefit from targeted promotions, partnerships, or localized marketing efforts to boost revenue.
 3. Optimize Sales Channels: Since one sales method dominates, Adidas should consider enhancing underperforming channels to diversify revenue streams.
-4. Retailer-Specific Strategies: Supporting high-performing retailers with exclusive deals or better stock availability can help sustain their momentum. Lower-performing retailers may need additional incentives, training, or strategic partnerships to improve sales.
-5. 5. Product Strategy: Adidas should focus on high-performing product categories while reassessing the lower-performing ones. This could involve discontinuing, rebranding, or repackaging less popular products
+4. Retailer-Specific Strategies: Supporting high-performing retailers with exclusive deals or better stock availability can help sustain their momentum. Lower-performing retailers may 
+   need additional incentives, training, or strategic partnerships to improve sales.
+5. Product Strategy: Adidas should focus on high-performing product categories while reassessing the lower-performing ones. This could involve discontinuing, rebranding, or repackaging less popular products
 
 ## Conclusion
 The Adidas sales analysis provides valuable insights into sales performance across different regions, sales methods, retailers, and product categories. The data reveals clear trends, including peak sales periods, top-performing regions, and dominant sales channels. Leveraging these insights can help Adidas make data-driven decisions to optimize marketing strategies, enhance underperforming areas, and maximize profitability.
